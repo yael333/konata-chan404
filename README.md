@@ -35,6 +35,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/konata-chan404/konata-chan404/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/konata-chan404/konata-chan404/output/snake.svg" alt="Snake animation" />
 
 ###
