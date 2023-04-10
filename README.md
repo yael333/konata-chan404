@@ -19,22 +19,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/792357670920519692/1086091634271330385/ezgif.com-gif-maker.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&username=konata-chan404" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&username=konata-chan404" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/konata-chan404/konata-chan404/output/snake.svg" alt="Snake animation" />
-
-###
