@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an 18-year-old girl who's been exploring the wonderful world of programming for 5 years now, my journey has been self indulgent and mostly self taught. <br>From my early curiosity with low-level programming with C and kernel hacking, I've enjoyed diving into the nitty-gritty details of how code works. I've also explored more abstract and theoretical concepts, including functional programming and advanced object oriented designs.<br><br>As an aspiring witch of code, I've found that programming allows me to tap into my own inner magic, channeling my passion for thinking and creative problem-solving into programs that bring my ideas to life. I love collaborating with others and sharing my knowledge, and I'm always excited to explore new frontiers in the field of coding.</p>
+<p align="left">I'm an 18-year-old girl who's been exploring the wonderful world of programming for 5 years now, my journey has been self indulgent and mostly self taught. <br>From my early curiosity with low-level programming with C and kernel hacking, I've enjoyed diving into the nitty-gritty details of how code works. I've also explored more abstract and theoretical concepts, including functional programming, advanced code paradigms and designs.<br><br>As an aspiring witch of code, I've found that programming allows me to tap into my own inner magic, channeling my passion for thinking and creative problem-solving into programs that bring my ideas to life. I love collaborating with others and sharing my knowledge, and I'm always excited to explore new frontiers in the field of coding.</p>
 
 ###
 
