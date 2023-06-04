@@ -15,7 +15,7 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 
 &emsp;~ Binary exploitation (kernel level specifically)\
 &emsp;~ Windows internals and malware (Ü< VX >Ü)\
-&emsp;~ Personal Computing (uxn, plan9front, etc...)\
+&emsp;~ Personal Computing (uxn, Plan9Front, Haiku...)\
 &emsp;~ (Un-)typed lambda calculus and other minimal forms of computation
 
 #### PGP: 7B5B 52F5 4D41 D77B (subkey 6522 207F B4DE 5AEB)
