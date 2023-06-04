@@ -18,6 +18,6 @@ ZZZzz /,`.-'`'    -.  ;-;;,_
 &emsp;~ Personal Computing (uxn, plan9front, etc...)\
 &emsp;~ (Un-)typed lambda calculus and other minimal forms of computation
 
-PGP: 7B5B 52F5 4D41 D77B (subkey 6522 207F B4DE 5AEB)
+#### PGP: 7B5B 52F5 4D41 D77B (subkey 6522 207F B4DE 5AEB)
 
 <img src="https://raw.githubusercontent.com/konata-chan404/konata-chan404/main/cute-removebg-preview.png" alt= “” width="auto" height="300px">
